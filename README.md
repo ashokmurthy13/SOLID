@@ -16,17 +16,17 @@ This repository is created to understand the SOLID Design principles through han
   * A class should only be **responsible for one thing**
   
 
-* O - Open Close Principle
+* **O - Open Close Principle**
   * An entity should be **open** for **extension**, but **closed** for **modification**
   * Extend the functionality by adding new code instead of changing the existing code
   * _**how**_ - separate the behaviors so the system can easily be extended but never broken
   * **_goal_** - get to a point where you can never break the code of your system
 
 
-* L - Liskov Substitution Principle
+* **L - Liskov Substitution Principle**
 
 
-* I - Interface Segregation Principle
+* **I - Interface Segregation Principle**
 
 
-* D - Dependency Inversion Principle
+* **D - Dependency Inversion Principle**
